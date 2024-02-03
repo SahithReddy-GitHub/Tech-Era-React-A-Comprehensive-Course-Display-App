@@ -1,0 +1,36 @@
+.failCon {
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+}
+.failImg {
+  width: 60%;
+  height: 60%;
+  margin-bottom: 20px;
+}
+.failHead {
+  font-size: 24px;
+  font-weight: #1e293b;
+  margin-bottom: 15px;
+}
+.failPara {
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+.failBtn {
+  width: 100px;
+  padding: 10px 20px 10px 20px;
+  background-color: #1e293b;
+  border: none;
+  color: #ffffff;
+  border-radius: 3px;
+  cursor: pointer;
+}
